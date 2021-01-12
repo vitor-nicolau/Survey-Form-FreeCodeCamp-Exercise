@@ -1,0 +1,111 @@
+body {
+    background-color: rgb(148, 204, 204);
+    text-align: center;
+}
+
+#button {
+    margin: 20px 0 20px 0;
+}
+
+#title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#survey-form {
+    background-color: white;
+    width: 900px;
+    margin: 0 auto;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+#description {
+    padding-top: 20px;
+}
+
+.row-tab {
+    display: block;
+}
+
+.label-name {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
+
+.input-name {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    padding: 10px 0 10px 10px;
+}
+
+.label-email {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
+
+.input-email {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    padding: 10px 0 10px 10px;
+}
+
+.label-age {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
+
+.input-age {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    padding: 10px 0 10px 10px;
+}
+
+.label-select {
+    display: inline-block;
+    width: 40%;
+    padding-top: 20px;
+    text-align: right;
+}
+
+.input-select {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    padding: 10px 0 10px 10px;
+}
+
+.label-radio {
+    display: inline-block;
+    width: 40%;
+    padding-top: 20px;
+    text-align: right;
+    vertical-align: top;
+}
+
+.input-radio {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    padding: 20px 0 0 10px;
+}
+
+.label-checkbox {
+    display: inline-block;
+    width: 40%;
+    padding-top: 20px;
+    text-align: right;
+    vertical-align: top;
+}
+
+.input-checkbox {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    padding: 20px 0 0 10px;
+}
